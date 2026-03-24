@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Fab 마켓플레이스 에셋 (재다운로드 가능)
+Content/Necropolis/
