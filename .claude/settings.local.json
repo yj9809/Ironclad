@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cmd.exe /c \"dir /b \"\"C:\\\\Workspace\\\\자료 정리\\\\그래픽스기초-StudyVault\"\" 2>&1\")",
-      "Bash(cmd.exe /c \"dir /b /s \"\"C:\\\\Workspace\\\\자료 정리\\\\그래픽스기초-StudyVault\"\" 2>&1\")",
-      "Bash(cmd.exe /c dir /b /s \"C:\\\\Workspace\\\\자료 정리\\\\그래픽스기초-StudyVault\")"
-    ]
-  }
-}
